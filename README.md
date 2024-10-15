@@ -1,16 +1,13 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 # Google Drive Uploader Bot
-  
-`It Was my first Python Project And behind this  Whole credit goes To ` [CyberBoySumanjay](https://github.com/cyberboysumanjay) 
 
-### Inspired By Sumanjay  Bot :D [Google Drive Uploader](https://telegram.dog/driveuploadbot)
 
 Here Is Live Version Of Bot  [Gdriveupme_bot](http://telegram.dog/gdriveupme_bot)
 
 
 
-# Update (30 May 2020)
+# Update
 
 - Teamdrive Support added 
 
@@ -81,18 +78,6 @@ python3 bot.py
 
  `Make sure You have Changed Your Bot Token and google client api Before Hosting It`
 
-
- 
-
-### My Hidden Thanks To  :heart: 
-  - [CyberBoySumanjay](https://github.com/cyberboysumanjay)
-  - [SpEcHiDe](https://github.com/SpEcHiDe)
-  - [Atulkadian](https://github.com/atulkadian)
-
-
-
-
-
 # TODO
   - Rename file while uploading
   - Adding Telegram File Support [ slow Download :( ]
@@ -100,5 +85,3 @@ python3 bot.py
   - Fix openload support
   - Adding zippyshare , Mediafire , cloud mail  , Yandex disk ,Sourceforge {these are already written In PPE plugin you can use these from there}
   - Google Drive Direct Link Generator
-### Licence
-  - GPLv3
